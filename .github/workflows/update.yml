@@ -1,4 +1,4 @@
-#name: Update CSE seminar calendar
+name: Update CSE seminar calendar
 
 on:
   schedule:
