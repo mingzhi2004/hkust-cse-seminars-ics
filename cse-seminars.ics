@@ -8,7 +8,7 @@ X-WR-TIMEZONE:Asia/Hong_Kong
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
 UID:0d1f553cb4001540af211458@cse.hkust
-DTSTAMP:20260830T224528Z
+DTSTAMP:20260831T235144Z
 DTSTART;TZID=Asia/Hong_Kong:20260723T103000
 DTEND;TZID=Asia/Hong_Kong:20260723T120000
 SUMMARY:[CSE Seminar] The Mysterious Query Complexity of Tarski Fixed Poi
@@ -20,7 +20,7 @@ URL:https://cse.hkust.edu.hk/pg/seminars/
 END:VEVENT
 BEGIN:VEVENT
 UID:98251a63794c50491d1997cc@cse.hkust
-DTSTAMP:20260830T224528Z
+DTSTAMP:20260831T235144Z
 DTSTART;TZID=Asia/Hong_Kong:20260730T110000
 DTEND;TZID=Asia/Hong_Kong:20260730T120000
 SUMMARY:[CSE Seminar] Rethinking the theoretical foundation of reinforcem
@@ -32,7 +32,7 @@ URL:https://cse.hkust.edu.hk/pg/seminars/
 END:VEVENT
 BEGIN:VEVENT
 UID:f90fc9f2d3c79ea3ec6ca9e4@cse.hkust
-DTSTAMP:20260830T224528Z
+DTSTAMP:20260831T235144Z
 DTSTART;TZID=Asia/Hong_Kong:20260824T110000
 DTEND;TZID=Asia/Hong_Kong:20260824T120000
 SUMMARY:[CSE Seminar] From Silicon to Tokens: A Problem-Centered Approach
@@ -44,7 +44,7 @@ URL:https://cse.hkust.edu.hk/pg/seminars/
 END:VEVENT
 BEGIN:VEVENT
 UID:25c2f8bb47d4d4c29217120f@cse.hkust
-DTSTAMP:20260830T224528Z
+DTSTAMP:20260831T235144Z
 DTSTART;TZID=Asia/Hong_Kong:20260907T160000
 DTEND;TZID=Asia/Hong_Kong:20260907T170000
 SUMMARY:[CSE Seminar] PG Orientation
@@ -55,7 +55,7 @@ URL:https://cse.hkust.edu.hk/pg/seminars/
 END:VEVENT
 BEGIN:VEVENT
 UID:77dcdb0a9f3aee3838bf0b7c@cse.hkust
-DTSTAMP:20260830T224528Z
+DTSTAMP:20260831T235144Z
 DTSTART;TZID=Asia/Hong_Kong:20260921T160000
 DTEND;TZID=Asia/Hong_Kong:20260921T170000
 SUMMARY:[CSE Seminar] On the Opportunities of Exploiting LLM Agents for M
@@ -67,7 +67,7 @@ URL:https://cse.hkust.edu.hk/pg/seminars/
 END:VEVENT
 BEGIN:VEVENT
 UID:907a5e7a8caab2f17d615745@cse.hkust
-DTSTAMP:20260830T224528Z
+DTSTAMP:20260831T235144Z
 DTSTART;TZID=Asia/Hong_Kong:20260928T160000
 DTEND;TZID=Asia/Hong_Kong:20260928T170000
 SUMMARY:[CSE Seminar] Improving the Resilience of Wireless Communication 
@@ -79,7 +79,7 @@ URL:https://cse.hkust.edu.hk/pg/seminars/
 END:VEVENT
 BEGIN:VEVENT
 UID:d7b34074a157e6085a1daab5@cse.hkust
-DTSTAMP:20260830T224528Z
+DTSTAMP:20260831T235144Z
 DTSTART;TZID=Asia/Hong_Kong:20261005T160000
 DTEND;TZID=Asia/Hong_Kong:20261005T170000
 SUMMARY:[CSE Seminar] Reprogramming the Internet of Things: From Things t
@@ -91,7 +91,7 @@ URL:https://cse.hkust.edu.hk/pg/seminars/
 END:VEVENT
 BEGIN:VEVENT
 UID:f7a98944fe807be6e58130a2@cse.hkust
-DTSTAMP:20260830T224528Z
+DTSTAMP:20260831T235144Z
 DTSTART;TZID=Asia/Hong_Kong:20261109T160000
 DTEND;TZID=Asia/Hong_Kong:20261109T170000
 SUMMARY:[CSE Seminar] Career Development for Engineering Research Student
