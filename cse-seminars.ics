@@ -7,44 +7,8 @@ X-WR-CALNAME:HKUST CSE Seminars
 X-WR-TIMEZONE:Asia/Hong_Kong
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
-UID:0d1f553cb4001540af211458@cse.hkust
-DTSTAMP:20260915T225434Z
-DTSTART;TZID=Asia/Hong_Kong:20260723T103000
-DTEND;TZID=Asia/Hong_Kong:20260723T120000
-SUMMARY:[CSE Seminar] The Mysterious Query Complexity of Tarski Fixed Poi
- nts
-LOCATION:Rm5402
-DESCRIPTION:Speaker: Yuhao Li Columbia Univ.\nHost: Y. Jin\nSource: https
- ://cse.hkust.edu.hk/pg/seminars/
-URL:https://cse.hkust.edu.hk/pg/seminars/
-END:VEVENT
-BEGIN:VEVENT
-UID:98251a63794c50491d1997cc@cse.hkust
-DTSTAMP:20260915T225434Z
-DTSTART;TZID=Asia/Hong_Kong:20260730T110000
-DTEND;TZID=Asia/Hong_Kong:20260730T120000
-SUMMARY:[CSE Seminar] Rethinking the theoretical foundation of reinforcem
- ent learning
-LOCATION:LTF
-DESCRIPTION:Speaker: Dr. Nan Jiang Univ. of Illinois at Urbana-Champaign\
- nHost: L. Chen & M. Fung\nSource: https://cse.hkust.edu.hk/pg/seminars/
-URL:https://cse.hkust.edu.hk/pg/seminars/
-END:VEVENT
-BEGIN:VEVENT
-UID:f90fc9f2d3c79ea3ec6ca9e4@cse.hkust
-DTSTAMP:20260915T225434Z
-DTSTART;TZID=Asia/Hong_Kong:20260824T110000
-DTEND;TZID=Asia/Hong_Kong:20260824T120000
-SUMMARY:[CSE Seminar] From Silicon to Tokens: A Problem-Centered Approach
-  to Secure and Confidential Systems
-LOCATION:LTK
-DESCRIPTION:Speaker: Prof. Yinqian Zhang Southern Univ. of Science and Te
- chnology\nHost: C. Zhang\nSource: https://cse.hkust.edu.hk/pg/seminars/
-URL:https://cse.hkust.edu.hk/pg/seminars/
-END:VEVENT
-BEGIN:VEVENT
 UID:25c2f8bb47d4d4c29217120f@cse.hkust
-DTSTAMP:20260915T225434Z
+DTSTAMP:20260916T225710Z
 DTSTART;TZID=Asia/Hong_Kong:20260907T160000
 DTEND;TZID=Asia/Hong_Kong:20260907T170000
 SUMMARY:[CSE Seminar] PG Orientation
@@ -55,7 +19,7 @@ URL:https://cse.hkust.edu.hk/pg/seminars/
 END:VEVENT
 BEGIN:VEVENT
 UID:77dcdb0a9f3aee3838bf0b7c@cse.hkust
-DTSTAMP:20260915T225434Z
+DTSTAMP:20260916T225710Z
 DTSTART;TZID=Asia/Hong_Kong:20260921T160000
 DTEND;TZID=Asia/Hong_Kong:20260921T170000
 SUMMARY:[CSE Seminar] On the Opportunities of Exploiting LLM Agents for M
@@ -67,7 +31,7 @@ URL:https://cse.hkust.edu.hk/pg/seminars/
 END:VEVENT
 BEGIN:VEVENT
 UID:907a5e7a8caab2f17d615745@cse.hkust
-DTSTAMP:20260915T225434Z
+DTSTAMP:20260916T225710Z
 DTSTART;TZID=Asia/Hong_Kong:20260928T160000
 DTEND;TZID=Asia/Hong_Kong:20260928T170000
 SUMMARY:[CSE Seminar] Improving the Resilience of Wireless Communication 
@@ -78,8 +42,20 @@ DESCRIPTION:Speaker: Prof. Falko Dressler Technische Universität Berlin\
 URL:https://cse.hkust.edu.hk/pg/seminars/
 END:VEVENT
 BEGIN:VEVENT
+UID:02aca887eeb76a577298345f@cse.hkust
+DTSTAMP:20260916T225710Z
+DTSTART;TZID=Asia/Hong_Kong:20261005T140000
+DTEND;TZID=Asia/Hong_Kong:20261005T150000
+SUMMARY:[CSE Seminar] Building Scalable Distributed Databases in the Age 
+ of Geo-Replication
+LOCATION:Rm4472
+DESCRIPTION:Speaker: Yunhao Mao Univ. of Toronto\nHost: A. Jacobsen\nSour
+ ce: https://cse.hkust.edu.hk/pg/seminars/
+URL:https://cse.hkust.edu.hk/pg/seminars/
+END:VEVENT
+BEGIN:VEVENT
 UID:d7b34074a157e6085a1daab5@cse.hkust
-DTSTAMP:20260915T225434Z
+DTSTAMP:20260916T225710Z
 DTSTART;TZID=Asia/Hong_Kong:20261005T160000
 DTEND;TZID=Asia/Hong_Kong:20261005T170000
 SUMMARY:[CSE Seminar] Reprogramming the Internet of Things: From Things t
@@ -91,7 +67,7 @@ URL:https://cse.hkust.edu.hk/pg/seminars/
 END:VEVENT
 BEGIN:VEVENT
 UID:d06774b595e94efb07e41b7d@cse.hkust
-DTSTAMP:20260915T225434Z
+DTSTAMP:20260916T225710Z
 DTSTART;TZID=Asia/Hong_Kong:20261012T160000
 DTEND;TZID=Asia/Hong_Kong:20261012T170000
 SUMMARY:[CSE Seminar] TBA
@@ -102,7 +78,7 @@ URL:https://cse.hkust.edu.hk/pg/seminars/
 END:VEVENT
 BEGIN:VEVENT
 UID:f7a98944fe807be6e58130a2@cse.hkust
-DTSTAMP:20260915T225434Z
+DTSTAMP:20260916T225710Z
 DTSTART;TZID=Asia/Hong_Kong:20261109T160000
 DTEND;TZID=Asia/Hong_Kong:20261109T170000
 SUMMARY:[CSE Seminar] Career Development for Engineering Research Student
@@ -114,7 +90,7 @@ URL:https://cse.hkust.edu.hk/pg/seminars/
 END:VEVENT
 BEGIN:VEVENT
 UID:0743984ff8273b11abcc00c1@cse.hkust
-DTSTAMP:20260915T225434Z
+DTSTAMP:20260916T225710Z
 DTSTART;TZID=Asia/Hong_Kong:20261116T160000
 DTEND;TZID=Asia/Hong_Kong:20261116T170000
 SUMMARY:[CSE Seminar] TBA
@@ -125,7 +101,7 @@ URL:https://cse.hkust.edu.hk/pg/seminars/
 END:VEVENT
 BEGIN:VEVENT
 UID:1b4f643248611d28f2b34f2e@cse.hkust
-DTSTAMP:20260915T225434Z
+DTSTAMP:20260916T225710Z
 DTSTART;TZID=Asia/Hong_Kong:20261123T160000
 DTEND;TZID=Asia/Hong_Kong:20261123T170000
 SUMMARY:[CSE Seminar] TBA
