@@ -8,7 +8,7 @@ X-WR-TIMEZONE:Asia/Hong_Kong
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
 UID:25c2f8bb47d4d4c29217120f@cse.hkust
-DTSTAMP:20261113T010525Z
+DTSTAMP:20261114T005319Z
 DTSTART;TZID=Asia/Hong_Kong:20260907T160000
 DTEND;TZID=Asia/Hong_Kong:20260907T170000
 SUMMARY:[CSE Seminar] PG Orientation
@@ -19,7 +19,7 @@ URL:https://cse.hkust.edu.hk/pg/seminars/
 END:VEVENT
 BEGIN:VEVENT
 UID:77dcdb0a9f3aee3838bf0b7c@cse.hkust
-DTSTAMP:20261113T010525Z
+DTSTAMP:20261114T005319Z
 DTSTART;TZID=Asia/Hong_Kong:20260921T160000
 DTEND;TZID=Asia/Hong_Kong:20260921T170000
 SUMMARY:[CSE Seminar] On the Opportunities of Exploiting LLM Agents for M
@@ -31,7 +31,7 @@ URL:https://cse.hkust.edu.hk/pg/seminars/
 END:VEVENT
 BEGIN:VEVENT
 UID:907a5e7a8caab2f17d615745@cse.hkust
-DTSTAMP:20261113T010525Z
+DTSTAMP:20261114T005319Z
 DTSTART;TZID=Asia/Hong_Kong:20260928T160000
 DTEND;TZID=Asia/Hong_Kong:20260928T170000
 SUMMARY:[CSE Seminar] Improving the Resilience of Wireless Communication 
@@ -43,7 +43,7 @@ URL:https://cse.hkust.edu.hk/pg/seminars/
 END:VEVENT
 BEGIN:VEVENT
 UID:02aca887eeb76a577298345f@cse.hkust
-DTSTAMP:20261113T010525Z
+DTSTAMP:20261114T005319Z
 DTSTART;TZID=Asia/Hong_Kong:20261005T140000
 DTEND;TZID=Asia/Hong_Kong:20261005T150000
 SUMMARY:[CSE Seminar] Building Scalable Distributed Databases in the Age 
@@ -55,7 +55,7 @@ URL:https://cse.hkust.edu.hk/pg/seminars/
 END:VEVENT
 BEGIN:VEVENT
 UID:d7b34074a157e6085a1daab5@cse.hkust
-DTSTAMP:20261113T010525Z
+DTSTAMP:20261114T005319Z
 DTSTART;TZID=Asia/Hong_Kong:20261005T160000
 DTEND;TZID=Asia/Hong_Kong:20261005T170000
 SUMMARY:[CSE Seminar] Reprogramming the Internet of Things: From Things t
@@ -67,7 +67,7 @@ URL:https://cse.hkust.edu.hk/pg/seminars/
 END:VEVENT
 BEGIN:VEVENT
 UID:fe5746cfb8a970d25b7db992@cse.hkust
-DTSTAMP:20261113T010525Z
+DTSTAMP:20261114T005319Z
 DTSTART;TZID=Asia/Hong_Kong:20261012T160000
 DTEND;TZID=Asia/Hong_Kong:20261012T170000
 SUMMARY:[CSE Seminar] Building Robot Foundation Models with Scalable Vide
@@ -79,7 +79,7 @@ URL:https://cse.hkust.edu.hk/pg/seminars/
 END:VEVENT
 BEGIN:VEVENT
 UID:0f29a29ec20576c8c865592b@cse.hkust
-DTSTAMP:20261113T010525Z
+DTSTAMP:20261114T005319Z
 DTSTART;TZID=Asia/Hong_Kong:20261026T160000
 DTEND;TZID=Asia/Hong_Kong:20261026T170000
 SUMMARY:[CSE Seminar] Toward Trustworthy Multimodal & Multi-Agent AI in P
@@ -91,7 +91,7 @@ URL:https://cse.hkust.edu.hk/pg/seminars/
 END:VEVENT
 BEGIN:VEVENT
 UID:5c4a06320ef5121209cecad3@cse.hkust
-DTSTAMP:20261113T010525Z
+DTSTAMP:20261114T005319Z
 DTSTART;TZID=Asia/Hong_Kong:20261102T110000
 DTEND;TZID=Asia/Hong_Kong:20261102T120000
 SUMMARY:[CSE Seminar] Theory and Practice of Efficient Evaluation
@@ -102,7 +102,7 @@ URL:https://cse.hkust.edu.hk/pg/seminars/
 END:VEVENT
 BEGIN:VEVENT
 UID:5537e21c1ce9666b47c8fd54@cse.hkust
-DTSTAMP:20261113T010525Z
+DTSTAMP:20261114T005319Z
 DTSTART;TZID=Asia/Hong_Kong:20261102T160000
 DTEND;TZID=Asia/Hong_Kong:20261102T170000
 SUMMARY:[CSE Seminar] From Signals to Solutions: Grounded LLM Agents for 
@@ -114,7 +114,7 @@ URL:https://cse.hkust.edu.hk/pg/seminars/
 END:VEVENT
 BEGIN:VEVENT
 UID:f7a98944fe807be6e58130a2@cse.hkust
-DTSTAMP:20261113T010525Z
+DTSTAMP:20261114T005319Z
 DTSTART;TZID=Asia/Hong_Kong:20261109T160000
 DTEND;TZID=Asia/Hong_Kong:20261109T170000
 SUMMARY:[CSE Seminar] Career Development for Engineering Research Student
@@ -127,7 +127,7 @@ URL:https://cse.hkust.edu.hk/pg/seminars/
 END:VEVENT
 BEGIN:VEVENT
 UID:cff475470a0ad9f9867ef463@cse.hkust
-DTSTAMP:20261113T010525Z
+DTSTAMP:20261114T005319Z
 DTSTART;TZID=Asia/Hong_Kong:20261116T160000
 DTEND;TZID=Asia/Hong_Kong:20261116T170000
 SUMMARY:[CSE Seminar] Practical Private Information Retrieval: Querying D
@@ -139,7 +139,7 @@ URL:https://cse.hkust.edu.hk/pg/seminars/
 END:VEVENT
 BEGIN:VEVENT
 UID:b5d6dca646612504e3dd1ab2@cse.hkust
-DTSTAMP:20261113T010525Z
+DTSTAMP:20261114T005319Z
 DTSTART;TZID=Asia/Hong_Kong:20261120T150000
 DTEND;TZID=Asia/Hong_Kong:20261120T160000
 SUMMARY:[CSE Seminar] Towards an AIOps R&D Agent to Keep Critical Systems
@@ -151,7 +151,7 @@ URL:https://cse.hkust.edu.hk/pg/seminars/
 END:VEVENT
 BEGIN:VEVENT
 UID:9a005025018a027c49ea83ab@cse.hkust
-DTSTAMP:20261113T010525Z
+DTSTAMP:20261114T005319Z
 DTSTART;TZID=Asia/Hong_Kong:20261123T160000
 DTEND;TZID=Asia/Hong_Kong:20261123T170000
 SUMMARY:[CSE Seminar] The Price of Anarchy for Selfish Load Balancing
@@ -161,8 +161,19 @@ DESCRIPTION:Speaker: Dr. Yaonan Jin CSE\nHost: S. Arya\nSource: https://c
 URL:https://cse.hkust.edu.hk/pg/seminars/
 END:VEVENT
 BEGIN:VEVENT
+UID:bd7ce41aa9015e60ce717202@cse.hkust
+DTSTAMP:20261114T005319Z
+DTSTART;TZID=Asia/Hong_Kong:20261127T110000
+DTEND;TZID=Asia/Hong_Kong:20261127T120000
+SUMMARY:[CSE Seminar] TBA
+LOCATION:TBA
+DESCRIPTION:Speaker: Dr. Andreas Zufle Emory Univ.\nHost: R. Wong\nSource
+ : https://cse.hkust.edu.hk/pg/seminars/
+URL:https://cse.hkust.edu.hk/pg/seminars/
+END:VEVENT
+BEGIN:VEVENT
 UID:777fcdef26bae8c2504b7497@cse.hkust
-DTSTAMP:20261113T010525Z
+DTSTAMP:20261114T005319Z
 DTSTART;TZID=Asia/Hong_Kong:20261130T160000
 DTEND;TZID=Asia/Hong_Kong:20261130T170000
 SUMMARY:[CSE Seminar] Building LLM Post-Training Infrastructure for the A
